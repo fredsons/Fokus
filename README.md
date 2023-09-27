@@ -14,7 +14,7 @@ Fokus é uma aplicação de gerenciamento de tempo que ajuda os usuários a alte
 
 1. Clone este repositório:
 
-git clone <https://github.com/seu-usuario/fokus.git>
+git clone
 
 2. Abra o arquivo `index.html` em seu navegador da web.
 
