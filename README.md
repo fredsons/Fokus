@@ -1,6 +1,6 @@
 # Fokus
 
-Fokus é uma aplicação de gerenciamento de tempo que ajuda os usuários a alternar entre períodos de foco e descanso. Você pode personalizar o tempo de foco e de descanso de acordo com suas necessidades e até mesmo ativar música de fundo para criar o ambiente perfeito para sua produtividade.
+Fokus é uma aplicação de gerenciamento de tempo que ajuda os usuários a alternar entre períodos de foco e descanso, e até mesmo ativar música de fundo para criar o ambiente perfeito para sua produtividade.
 
 ## Funcionalidades
 
